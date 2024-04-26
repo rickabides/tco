@@ -1,4 +1,4 @@
-### Revised Total Cost of Ownership (TCO) Report: On-Premises vs. AWS Cloud Over 3 Years
+### Total Cost of Ownership (TCO) Report: On-Premises vs. AWS Cloud Over 3 Years
 
 #### Introduction
 This report provides an  analysis of the total cost of ownership for maintaining an on-premises infrastructure compared to building on AWS Cloud services. It incorporates specific details about the on-premises setup, including hardware specifications, network architecture, and administrative overheads. The comparison is made over a three-year period, reflecting both setups' cumulative costs.
