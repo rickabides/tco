@@ -82,7 +82,7 @@ def load_configuration(file_path):
     return config
 
 # Main execution
-config = load_configuration('cost_config_v1.json')
+config = load_configuration('cost_config.json')
 on_prem_calculator = OnPremCostCalculator(config["on_prem_costs"], config["cost_overheads"])
 aws_calculator = AWSCostCalculator(config["aws_pricing"], config["cost_overheads"])
 
