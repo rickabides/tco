@@ -36,6 +36,8 @@ This report provides an  analysis of the total cost of ownership for maintaining
    - **On-Premises:** $564,593.63 (sum of yearly costs plus initial setup).
    - **AWS Cloud:** $88,441.51 (annual AWS costs accumulated over three years).
 
+![TCO Graph](https://raw.githubusercontent.com/rickabides/tco/main/TCO_graph.png)
+
 #### Conclusion
 The specifications of the on-premises infrastructure highlights the significant upfront and ongoing costs associated with maintaining and scaling physical hardware. In contrast, AWS Cloud offers a substantially lower cost of ownership by eliminating many of these expenses and providing a flexible environment that can dynamically adapt to changing business needs. 
 
