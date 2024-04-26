@@ -1,0 +1,21 @@
+{
+    "aws_pricing": [
+        {"Type": "ec2-web", "Price": 0.0510, "Qty": 6},
+        {"Type": "rds-db", "Price": 0.2390, "Qty": 4},
+        {"Type": "EBS", "Price": 0.125, "Qty": 5260} 
+    ],
+    "on_prem_costs": {
+        "web_servers": {"count": 10, "price": 2237},
+        "db_servers": {"count": 4, "price": 4803},
+        "storage": {"tb": 12, "price_per_tb": 6658},
+        "network": {"monthly_cost": 1347},
+        "colo": {"monthly_cost": 2150}
+    },
+    "cost_overheads": {
+        "admin_overhead": 0.15,
+        "growth_rate": 0.3,
+        "amortization_years": 3,
+        "maintenance_rate": 0.1,
+        "discount_rate": 0.1
+    }
+}
